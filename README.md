@@ -48,7 +48,8 @@ This project analyzes over 500 million trip records from the Chicago Data Portal
 ## Project Structure
 
 ```
-├── Final-Chicago-FHV-Demand-Forecasting.ipynb  # Main analysis notebook
+├── Final-Chicago-FHV-Demand-Forecasting.ipynb  # Final/Main analysis notebook
+├── Phase1-Chicago-Ride-Hailing-vs-Taxi.ipynb # Phase 1 analysis notebook (Informed "Final" analysis)
 ├── README.md
 ```
 
